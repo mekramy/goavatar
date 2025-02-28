@@ -4,7 +4,7 @@ GoAvatar is a Go library for generating customizable avatars. It supports creati
 
 | Letter                                                                                | Sticker                                                                            | Male                                                                            | Female                                                                              |
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| ![Letter](https://github.com/mekramy/goavatar/blob/master/demo/john_doe.svg?raw=true) | ![Sticker](https://github.com/mekramy/goavatar/blob/master/demo/star.svg?raw=true) | ![Male](https://github.com/mekramy/goavatar/blob/master/demo/male.svg?raw=true) | ![Female](https://github.com/mekramy/goavatar/blob/master/demo/female.svg?raw=true) |
+| ![Letter](https://github.com/mekramy/goavatar/blob/main/demo/john_doe.svg?raw=true) | ![Sticker](https://github.com/mekramy/goavatar/blob/main/demo/star.svg?raw=true) | ![Male](https://github.com/mekramy/goavatar/blob/main/demo/male.svg?raw=true) | ![Female](https://github.com/mekramy/goavatar/blob/main/demo/female.svg?raw=true) |
 
 ## Installation
 
