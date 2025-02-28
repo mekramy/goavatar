@@ -2,9 +2,9 @@
 
 GoAvatar is a Go library for generating customizable avatars. It supports creating avatars for text, stickers, and persons with various customization options.
 
-| Letter                                                                               | Sticker                                                                           | Male                                                                           | Female                                                                             |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| [Letter](https://github.com/mekramy/goavatar/blob/master/demo/john_doe.svg?raw=true) | [Sticker](https://github.com/mekramy/goavatar/blob/master/demo/star.svg?raw=true) | [Male](https://github.com/mekramy/goavatar/blob/master/demo/male.svg?raw=true) | [Female](https://github.com/mekramy/goavatar/blob/master/demo/female.svg?raw=true) |
+| Letter                                                                                | Sticker                                                                            | Male                                                                            | Female                                                                              |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ![Letter](https://github.com/mekramy/goavatar/blob/master/demo/john_doe.svg?raw=true) | ![Sticker](https://github.com/mekramy/goavatar/blob/master/demo/star.svg?raw=true) | ![Male](https://github.com/mekramy/goavatar/blob/master/demo/male.svg?raw=true) | ![Female](https://github.com/mekramy/goavatar/blob/master/demo/female.svg?raw=true) |
 
 ## Installation
 
